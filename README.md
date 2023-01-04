@@ -9,5 +9,5 @@ I'm a **data scientist** at [Perceive Now](https://www.perceivenow.ai) and an **
 
 * Computational biology: [CNN-Based Approach for Identifying Neuron Regeneration Genes](https://github.com/TheFloatingString/Adage)
 
-* Natural langauge embeddings: [AGORA](https://github.com/TheFloatingString/AGORA)
+* Natural langauge embedding and summarization: [AGORA](https://github.com/TheFloatingString/AGORA)
 
