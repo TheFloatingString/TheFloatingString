@@ -17,6 +17,6 @@ I'm Laurence, a **data scientist** at [Perceive Now](https://www.perceivenow.ai)
 
 ### I'd love to connect! 
 
-* I summarized my life philosophy, work and involvement at [laurenceliang.github.io](https://laurenceliang.github.io) 
+* I compiled my life philosophy, work and involvement at [laurenceliang.github.io](https://laurenceliang.github.io) 
 * I'm also active on [LinkedIn](https://www.linkedin.com/in/laurence-liang-innovator/) and [Twitter](https://twitter.com/LaurenceLiang1)
 * Please feel free to reach out via email! laurence.liang [at] mail.mcgill.ca 
