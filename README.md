@@ -17,4 +17,4 @@ I'm Laurence, a **data scientist** at [Perceive Now](https://www.perceivenow.ai)
 
 ### I'd love to connect! 
 
-Please feel free to reach out! laurence.liang [at] mail.mcgill.ca
+* Please feel free to reach out! laurence.liang [at] mail.mcgill.ca
