@@ -1,6 +1,6 @@
 # 👋 Hi!
 
-I'm Laurence, a **data scientist** at [Perceive Now](https://www.perceivenow.ai) and an **engineering student** at McGill University. 
+I'm Laurence, **founder** at [Inspire](https://www.meetinspire.dev) (NEXT AI '23) and an **engineering student** at McGill University. 
 
 ### My previous work includes:
 
