@@ -1,11 +1,11 @@
 # 👋 Hi!
 
-I'm Laurence, **founder** at [Inspire](https://www.meetinspire.dev) (NEXT AI '23) and an **engineering student** at McGill University. 
+I'm Laurence, I host hackathons at McGill University and currently contributing to robotics & ML research on campus. 
 
 ### My previous work includes:
 
+* Building vision & ML models for space robotics at MDA Space 
 * Designing visualization tools and models to evaluate drone motor performance at **[ACSL](https://www.acsl.co.jp/en/)**, Japan's largest industrial drone manufacturer
-* Developing natural language processing tools to compare webpage similarity at **Expedia**
 * Organizing hackathons since 2018 (prev. Sponsorship Lead at [@hackmcgill](https://github.com/hackmcgill))
 
 
