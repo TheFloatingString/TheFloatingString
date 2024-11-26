@@ -1,6 +1,6 @@
 # 👋 Hi!
 
-I'm Laurence, I host hackathons at McGill University and joined robotics & ML research projects on campus. 
+I'm Laurence, I host hackathons at McGill University, and work on robotics & ML research projects on campus. 
 
 ### My previous work includes:
 
