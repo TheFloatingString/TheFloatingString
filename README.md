@@ -2,18 +2,19 @@
 
 I'm Laurence, I host hackathons at McGill University, and work on robotics & ML research projects. 
 
-### My previous work includes:
+### I've previously worked on:
 
-* Building vision & ML models for space robotics at MDA Space 
+* Building vision & ML models for space robotics at MDA Space
+* Contributing to LLM evals at Groq
 * Designing visualization tools and models to evaluate drone motor performance at **[ACSL](https://www.acsl.co.jp/en/)**, Japan's largest industrial drone manufacturer
+* Core API development at early-stage startups 
 * Organizing hackathons since 2018 (prev. Sponsorship Lead at [@hackmcgill](https://github.com/hackmcgill))
-
 
 ### I'm currently intersted in:
 
-* Computer vision and human kinematics: [HackMIT Handheld Exoskeleton](https://github.com/TheFloatingString/copy-cast)
-* Computational biology: [CNN-Based Approach for Identifying Neuron Regeneration Genes](https://github.com/TheFloatingString/Adage)
-* Natural langauge embedding and summarization: [AGORA](https://github.com/TheFloatingString/AGORA)
+* Coding evals for LLMs (currently at the Rootly (YC S21) AI Labs, with workshop papers at ACL 2025 and NeurIPS 2025)
+* Perception and planning for robots (contributing to reserach at labs at McGill, Mila and UBC)
+* Efficient machine learning (co-authored workshop paper at ICML 2024 on state space model distillation)
 
 ### I'd love to connect! 
 
