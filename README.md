@@ -2,19 +2,19 @@
 
 I'm Laurence, I host hackathons at McGill University, and work on robotics & ML research projects. 
 
+### I'm currently:
+
+* Coding evals for LLMs at the Rootly (YC S21) AI Lab (with workshop papers at ACL 2025 and NeurIPS 2025)
+* Perception and planning for robots (contributing to reserach at labs at McGill, Mila and UBC)
+* Efficient machine learning (co-authored workshop paper at ICML 2024 on state space model distillation)
+
 ### I've previously worked on:
 
 * Building vision & ML models for space robotics at MDA Space
-* Contributing to LLM evals at Groq
+* Itegrating LLM evals at Groq
 * Designing visualization tools and models to evaluate drone motor performance at **[ACSL](https://www.acsl.co.jp/en/)**, Japan's largest industrial drone manufacturer
 * Core API development at early-stage startups 
 * Organizing hackathons since 2018 (prev. Sponsorship Lead at [@hackmcgill](https://github.com/hackmcgill))
-
-### I'm currently intersted in:
-
-* Coding evals for LLMs (currently at the Rootly (YC S21) AI Labs, with workshop papers at ACL 2025 and NeurIPS 2025)
-* Perception and planning for robots (contributing to reserach at labs at McGill, Mila and UBC)
-* Efficient machine learning (co-authored workshop paper at ICML 2024 on state space model distillation)
 
 ### I'd love to connect! 
 
